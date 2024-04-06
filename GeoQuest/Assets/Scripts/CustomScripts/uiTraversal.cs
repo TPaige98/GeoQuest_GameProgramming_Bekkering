@@ -10,6 +10,11 @@ public class uiTraversal : MonoBehaviour
         SceneManager.LoadScene("Level1");
     }
 
+    public void LoadMain()
+    {
+        SceneManager.LoadScene("MenuScreen");
+    }
+
     public void quitGame()
     {
         Application.Quit();
