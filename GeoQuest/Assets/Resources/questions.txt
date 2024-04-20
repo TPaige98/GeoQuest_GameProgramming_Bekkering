@@ -1,0 +1,24 @@
+Russia is the largest country by land mass in teh world?,true
+Mt.Everest is the highest mountain in Africa?,false
+The Pacific Ocean is the largest Ocean in the world?,true
+The Great Lakes consists of 5 bodies of water?,true
+The Red River forms a border between Texas and Oklahoma?,true
+The Sahara Desert is the largest Desert in the world?,true
+New York City is the capital of the United States?,false
+Antarctica is the largest continent by land mass?,false
+The Appalachian Mountains are located in the Western United States?,false
+The capital of Oklahoma is Guthrie?,false
+The Earth has seven continents?,true
+The equator divides the Earth into the Western and Eastern Hemisphere?,false
+Paris is the capital of France?,true
+The Amazon River flows through Brazil?,true
+The Great Barrier Reef is located off the coast of Japan?,false
+The Nile River is the longest river in the world?,true
+The United Kingdom is an island nation?,true
+The Great Lakes are located in North America?,true
+India is the most populous country in the world?,false
+The Arctic Ocean is the smallest ocean in the world?,true
+The Leaning Tower of Pisa is located in Italy?,true
+The currency of Japan is the Euro?,false
+The Appalachian Mountains are located in South America?,false
+The tallest waterfall in the world is Niagara Falls?,false
