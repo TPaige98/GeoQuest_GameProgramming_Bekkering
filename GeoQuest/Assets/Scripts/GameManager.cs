@@ -25,7 +25,7 @@ public class GameManager : MonoBehaviour
 
     private Question currentQuestion;
 
-    private int correctAnswers = 0;
+    public int correctAnswers = 0;
 
     [SerializeField]
     private Text fact;

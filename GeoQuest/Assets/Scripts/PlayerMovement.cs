@@ -6,7 +6,7 @@ using UnityEngine.InputSystem;
 public class PlayerMovement : MonoBehaviour
 {
     //Variable for Character Movement
-    float horizontalInput;
+    public float horizontalInput;
     public float walkSpeed;
 
     //Varibles for Character Jumping

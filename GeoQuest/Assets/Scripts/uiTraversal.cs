@@ -18,6 +18,7 @@ public class uiTraversal : MonoBehaviour
 
     public void LoadMain()
     {
+        Debug.Log("Loading Menu Screen");
         SceneManager.LoadScene("MenuScreen");
     }
 
