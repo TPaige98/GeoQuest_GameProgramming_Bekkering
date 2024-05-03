@@ -12,3 +12,6 @@ Watch your step when traversing the level, because falling to your death is poss
  -- Past assignment builds placed in PastAssignments folder. 
 
  -- Current build for currrent assignment is placed in root folder.  
+
+ -- Link to Testing: [Test File](https://github.com/TPaige98/GeoQuest_GameProgramming_Bekkering/blob/main/GeoQuest/Assets/Tests/TestScript.cs)
+ -- Link to Scripts: [Scripts](https://github.com/TPaige98/GeoQuest_GameProgramming_Bekkering/tree/main/GeoQuest/Assets/Scripts)
